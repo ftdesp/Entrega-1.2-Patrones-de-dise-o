@@ -1,0 +1,23 @@
+{
+  "name": "entrega-1.2-patrones-de-diseno",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "scripts": {
+  "start": "node dist/main.js"
+},
+
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/jest": "^29.5.12",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.1.4",
+    "typecript": "^0.0.1-security"
+  }
+
+}
